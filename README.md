@@ -101,7 +101,7 @@ The qualitative results gives detailed problematic areas which users faced while
 
 Phase 2 consisted of the desirability test. The words within this test are highlighted below. The red words contain a negative reaction, the blue a positive, and grey is neutral. 
 
-![Desirability Test](https://github.com/MichelePiot/BrochureDesign/blob/master/Desirability%20Test%20.png)
+![Desirability Test](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Desirability%20Test%20.png)
 
 The quantitative outcomes of the desirability test show users post reactions included simplicity, informative, and welcoming. But the usability of the app is greatly lacking. 
 
