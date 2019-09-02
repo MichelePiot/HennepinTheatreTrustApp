@@ -30,9 +30,9 @@ Nice to have
 * spokespersons 
 The development of personas were fictional representations of the community researched who represented the realistic major user group. 
 
-![1](https://github.com/MichelePiot/BrochureDesign/blob/master/Persona%201.png)
+![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Persona%201.png)
 
-![2](https://github.com/MichelePiot/BrochureDesign/blob/master/Persona%202.png)
+![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Persona%202.png)
 
 The personas for this design project are different, yet the overall goal stays the same. Both personas desire more involvement within the community theatre program. 
 
@@ -42,23 +42,23 @@ Empathy maps were created for each of the personas to highlight their needs, und
 
 Persona 1
 
-![1](https://github.com/MichelePiot/BrochureDesign/blob/master/Empathy%20Map%20-%20Alex.png)
+![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Empathy%20Map%20-%20Alex.png)
 
 Persona 2
 
-![2](https://github.com/MichelePiot/BrochureDesign/blob/master/Empathy%20Map%20-%20Jonah.png)
+![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Empathy%20Map%20-%20Jonah.png)
 
 The ideal user would be able to find the information necessary while tailored towards someone with the interests, activities, and culture of a high school student. 
 
 Rapid prototyping included a set of basic prototypes with different design approaches to be tested at the low fidelity level for immediate user feedback. 
 
-![1](https://github.com/MichelePiot/BrochureDesign/blob/master/Rapid%20Prototyping%20%601.png)  
+![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%20%601.png)  
 
-![2](https://github.com/MichelePiot/BrochureDesign/blob/master/Rapid%20Prototyping%202.png)
+![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%202.png)
 
-![3](https://github.com/MichelePiot/BrochureDesign/blob/master/Rapid%20Prototyping%203.png)
+![3](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%203.png)
 
-![4](https://github.com/MichelePiot/BrochureDesign/blob/master/Rapid%20Prototyping%204.png)
+![4](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%204.png)
 
 By rapid prototyping the app layout, the concept was able to be showed that it was a valid way for students to be able to get more involved within theatre around the city of Minneapolis. 
 
@@ -73,11 +73,11 @@ The rapid prototypes were tested on a small group of area high school students e
 
 An example of the initial app prototype:
 
-![1](https://github.com/MichelePiot/BrochureDesign/blob/master/Initial%20Design%201.png)
+![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%201.png)
 
-![2](https://github.com/MichelePiot/BrochureDesign/blob/master/Initial%20Design%202.png)
+![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%202.png)
 
-![5](https://github.com/MichelePiot/BrochureDesign/blob/master/Initial%20Design%205.png)
+![5](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%205.png)
 
 These designs were implemented into the phase 1 and 2 mid fidelity testing sessions. 
 
@@ -107,14 +107,14 @@ The quantitative outcomes of the desirability test show users post reactions inc
 
 Outcomes (8 different test subjects)
 
-![Desirability test outcomes](https://github.com/MichelePiot/BrochureDesign/blob/master/Desirability%20test%20outcomes.png)
+![Desirability test outcomes](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Desirability%20test%20outcomes.png)
 
 Continuing the design of the Hennepin Theatre Trust application on Adobe XD. 
 
 The original app design:
 
-![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/Original%20App%20Design%20Home%20Page.png)
+![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Original%20App%20Design%20Home%20Page.png)
 
 The new app design:
 
-![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/New%20Home%20Page%20App%20Design.png)
+![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/New%20Home%20Page%20App%20Design.png)
