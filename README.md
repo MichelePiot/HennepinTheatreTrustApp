@@ -1,15 +1,22 @@
 # HennepinTheatreTrustDesign
 A design of an app for the Hennepin Theater Trust designed specifically for high school students use and involvement. 
 
+**Duration: 6 weeks**
+
+**Role: User Researcher/User Experience Designer**
+
+
+**Research**
+
 User research was conducted to determine what the most important aspects the initial design would need from a high school student's perspective. 
 
-Because Hennepin Theatre Trust already had a website for their organization, information from there was pulled, gathered, and analyzed to determine suitable and most useful for high school students. 
+Because Hennepin Theatre Trust already had a website for their organization, information from there was pulled, gathered, and analyzed to determine what was most suitable and useful for high school students. 
 
 The user research consisted of card sorting major, minor, and nice to have information from their website, which was organized and sorted to fit the needs of high school students.
 
 The card sorting is as follows:
 
-Major
+**Major**
 * spotlight
 * showcase
 * contact us/get involved
@@ -18,14 +25,14 @@ Major
 * upcoming events
 
 
-Minor
+**Minor**
 * tours
 * resources
 * about us
 * WeDo MPLS
 * volunteer
 
-Nice to have
+**Nice to have**
 * map
 * spokespersons 
 The development of personas were fictional representations of the community researched who represented the realistic major user group. 
@@ -50,6 +57,17 @@ Persona 2
 
 The ideal user would be able to find the information necessary while tailored towards someone with the interests, activities, and culture of a high school student. 
 
+**Objectives**
+
+While refining the feedback of the prototypes, the key design objectives were determined:
+
+* Desire to be entertaining and engaging for high school students 
+* Encouraging for users to get involved within the community
+* Simple
+* Fit culture of current teens (favorites, inclusion of social media, new feed, easily connect with each other)
+
+**Low-Fidelity Prototyping**
+
 Rapid prototyping included a set of basic prototypes with different design approaches to be tested at the low fidelity level for immediate user feedback. 
 
 ![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%20%601.png)  
@@ -62,14 +80,7 @@ Rapid prototyping included a set of basic prototypes with different design appro
 
 By rapid prototyping the app layout, the concept was able to be showed that it was a valid way for students to be able to get more involved within theatre around the city of Minneapolis. 
 
-While refining the feedback of the prototypes, the key design objectives were determined:
-
-* Desire to be entertaining and engaging for high school students 
-* Encouraging for users to get involved within the community
-* Simple
-* Fit culture of current teens (favorites, inclusion of social media, new feed, easily connect with each other)
-
-The rapid prototypes were tested on a small group of area high school students engaged in a theatre class as well as anyone within the high school community who was looking to get more involved in theatre. 
+The prototypes were tested on a small group of area high school students engaged in a theatre class as well as anyone within the high school community who was looking to get more involved in theatre. 
 
 An example of the initial app prototype:
 
@@ -81,7 +92,7 @@ An example of the initial app prototype:
 
 These designs were implemented into the phase 1 and 2 mid fidelity testing sessions. 
 
-Mid fidelity testing was conducted in two phases. 
+**Mid-Fidelity**
 
 The goal of the first phase was to receive qualitative data which was used to better understand the thoughts and feelings of the user and gain real insight to what users are experiencing as they are browsing the app.  
 
