@@ -35,6 +35,7 @@ The card sorting is as follows:
 **Nice to have**
 * map
 * spokespersons 
+
 The development of personas were fictional representations of the community researched who represented the realistic major user group. 
 
 ![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Persona%201.png)
@@ -80,17 +81,7 @@ Rapid prototyping included a set of basic prototypes with different design appro
 
 By rapid prototyping the app layout, the concept was able to be showed that it was a valid way for students to be able to get more involved within theatre around the city of Minneapolis. 
 
-The prototypes were tested on a small group of area high school students engaged in a theatre class as well as anyone within the high school community who was looking to get more involved in theatre. 
-
-An example of the initial app prototype:
-
-![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%201.png)
-
-![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%202.png)
-
-![5](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%205.png)
-
-These designs were implemented into the phase 1 and 2 mid fidelity testing sessions. 
+The prototypes were tested on a small group of area high school students engaged in a theatre class as well as anyone within the high school community who was looking to get more involved in theatre.  
 
 **Mid-Fidelity**
 
@@ -122,7 +113,19 @@ Outcomes (8 different test subjects)
 
 Continuing the design of the Hennepin Theatre Trust application on Adobe XD. 
 
-The original app design:
+An example of the mid-fidelity app prototypes:
+
+![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%201.png)
+
+![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%202.png)
+
+![5](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%205.png)
+
+These designs were implemented into the phase 1 and 2 mid fidelity testing sessions.
+
+**High-Fidelity**
+
+The original high-fidelity app design:
 
 ![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Original%20App%20Design%20Home%20Page.png)
 
