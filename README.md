@@ -1,134 +1,59 @@
-# HennepinTheatreTrustDesign
-A design of an app for the Hennepin Theater Trust designed specifically for high school students use and involvement. 
+**Project Description**
 
-**Duration: 6 weeks**
+The Hennepin Theatre Trust is an organization seeking to bring positive change through the arts by bringing the community together; with students being a large part of their demographic. The community currently lacks an a source dedicated specifically for students use and involvement within this organization making it easy for them to connect, collaborate, and be more involved.
 
-**Role: User Researcher/User Experience Designer**
+_How could creating an app be beneficial for The Hennepin Theatre Trust to connect to their student demographic?_
 
+An app allowing students to connect with not only the theatre community but to other students also showing interest in getting more involved. This type of app can increase student use and involvement by incorporating social media trends making it easy for students ranging in age to connect with each other. 
+
+**Desired Outcome**
+
+A dedicated app for students seeking ways to get more involved. Not only providing reliable resources such as community events and information on how to become more involved but students seeking connections or friendships would find a space dedicated to those with similar interests. 
 
 **Research**
 
-User research was conducted to determine what the most important aspects the initial design would need from a high school student's perspective. 
-
-Because Hennepin Theatre Trust already had a website for their organization, information from there was pulled, gathered, and analyzed to determine what was most suitable and useful for high school students. 
-
-The user research consisted of card sorting major, minor, and nice to have information from their website, which was organized and sorted to fit the needs of high school students.
-
-The card sorting is as follows:
-
-**Major**
-* spotlight
-* showcase
-* contact us/get involved
-* student rush tickets
-* social media
-* upcoming events
+User research was conducted to determine what the most important aspects are and how they relate to a student using the app.
+Because Hennepin Theatre Trust already had a website for their organization, information from there was pulled, gathered, and analyzed to determine what was most suitable and useful for students. This includes anything from information on how to get involved to community meetings and events.
+Since the target audience was already decided, it was essential to begin thinking like a current middle/high school student; placing our thoughts and ideas into the perspective of the target audience. Each member drew upon their own experiences and combined them with current trends to begin developing our user journey.
+Persona Development
+The development of personas were fictional representations of the target community who represented the realistic major user group.
 
 
-**Minor**
-* tours
-* resources
-* about us
-* WeDo MPLS
-* volunteer
+The personas for this design project are different, yet the overall goal stays the same. Both personas desire a comprehensive source for involvement and a sense of belonging to a community. Our personas share the same goal but one seeks involvement specifically within theater while the other is more curious about trying new things. This allows two different perspectives allowing a more diverse and comprehensive design. Empathy Mapping
+Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users.
 
-**Nice to have**
-* map
-* spokespersons 
+Alex
 
-The development of personas were fictional representations of the community researched who represented the realistic major user group. 
+Jonah
+Drawn from the personas, empathy mapping supports the user journey in aiding users by defining key aspects of their behaviors. The user journey becomes more comprehensive and therefore the design of the product connects to each user.
+Card Sorting
+Overall the Hennepin Theatre Trust website wasn't created solely for students and their education involvement.
+By developing personas and identifying what drives their behaviors, thoughts, and feelings, we can begin to decipher which aspects of the website are of extreme pertinence and pull our information from there.
+The qualitative information received gives design thinking some structure in decoding what users would value and which aspects are less important. The structure of the design comes into play by highlighting the major aspects and guaranteeing they are at the forefront of the design.
+MAJOR
+Social Feed
+Connections
+Contribution/Personal Involvement
+Community
+Showcase
+MINOR
+Friends Overview
+Profile Information
+Production Assessments
+Awards
+Critical Review
 
-![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Persona%201.png)
+Ideation
+User Flow
+Initial user flow outlining the general path user would take to interact with key aspects of the app.
 
-![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Persona%202.png)
+Sketches
+Basic sketches outlining the major aspects desired to be included within the design show potential layouts and allow different design ideas to be considered specifically highlighting the homepage which will incorporate the social media feed.
 
-The personas for this design project are different, yet the overall goal stays the same. Both personas desire more involvement within the community theatre program. 
+Wireframes
+After initial sketches of the layout were designed, the wireframing process can begin with an informal outline showing the current layout of the app.
 
-Persona Empathy Mapping
+wireframe semantic differential test
+To get feedback from users and insight about their attitudes towards the design, a semantic differential test was implemented on the projected initial page of the app.
+This allows consideration of different layout styles and an insight into the emotional responses of users. To determine which layout was eliciting the desired emotional response, participants viewed two prototypes compared their social media feed layout.
 
-Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users. 
-
-Persona 1
-
-![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Empathy%20Map%20-%20Alex.png)
-
-Persona 2
-
-![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Empathy%20Map%20-%20Jonah.png)
-
-The ideal user would be able to find the information necessary while tailored towards someone with the interests, activities, and culture of a high school student. 
-
-**Objectives**
-
-While refining the feedback of the prototypes, the key design objectives were determined:
-
-* Desire to be entertaining and engaging for high school students 
-* Encouraging for users to get involved within the community
-* Simple
-* Fit culture of current teens (favorites, inclusion of social media, new feed, easily connect with each other)
-
-**Low-Fidelity Prototyping**
-
-Rapid prototyping included a set of basic prototypes with different design approaches to be tested at the low fidelity level for immediate user feedback. 
-
-![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%20%601.png)  
-
-![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%202.png)
-
-![3](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%203.png)
-
-![4](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Rapid%20Prototyping%204.png)
-
-By rapid prototyping the app layout, the concept was able to be showed that it was a valid way for students to be able to get more involved within theatre around the city of Minneapolis. 
-
-The prototypes were tested on a small group of area high school students engaged in a theatre class as well as anyone within the high school community who was looking to get more involved in theatre.  
-
-**Mid-Fidelity**
-
-The goal of the first phase was to receive qualitative data which was used to better understand the thoughts and feelings of the user and gain real insight to what users are experiencing as they are browsing the app.  
-
-The second phase was implemented to understand the quantitative data of the user. This included a desirability test where users were prompted to choose three to five words from a list that best describes their experiences after viewing and handling the app mockups. By doing a desirability test, users post reactions were categorized into which word they felt best described their experience and the words were quantitatively categorized where we can see which words held the majority. 
-
-Phase 1 consisted of a think out loud test where users were prompted to speak freely and describe their thoughts, feelings, and actions while browsing the app mockups. 
-
-Qualitative results:
-
-* "I see the social media stuff right away, which is good since this is for high school students"
-
-* "The spotlight information is prominent but I'm not exactly sure what it is. I'm assuming it is connected to volunteering somehow."
-
-* I wish it was more specific to just students -- in particular high school students"
-
-The qualitative results gives detailed problematic areas which users faced while viewing the app mockups. 
-
-Phase 2 consisted of the desirability test. The words within this test are highlighted below. The red words contain a negative reaction, the blue a positive, and grey is neutral. 
-
-![Desirability Test](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Desirability%20Test%20.png)
-
-The quantitative outcomes of the desirability test show users post reactions included simplicity, informative, and welcoming. But the usability of the app is greatly lacking. 
-
-Outcomes (8 different test subjects)
-
-![Desirability test outcomes](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Desirability%20test%20outcomes.png)
-
-Continuing the design of the Hennepin Theatre Trust application on Adobe XD. 
-
-An example of the mid-fidelity app prototypes:
-
-![1](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%201.png)
-
-![2](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%202.png)
-
-![5](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Initial%20Design%205.png)
-
-These designs were implemented into the phase 1 and 2 mid fidelity testing sessions.
-
-**High-Fidelity**
-
-The original high-fidelity app design:
-
-![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/Original%20App%20Design%20Home%20Page.png)
-
-The new app design:
-
-![](https://github.com/MichelePiot/HennepinTheatreTrustApp/blob/master/ProjectFiles/New%20Home%20Page%20App%20Design.png)
