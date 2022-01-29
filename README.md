@@ -1,3 +1,4 @@
+
 ## **Project Description**
 
 The Hennepin Theatre Trust is an organization seeking to bring positive change through the arts by bringing the community together; with students being a large part of their demographic. The community currently lacks a source dedicated specifically for students' use and involvement within this organization making it easy for them to connect, collaborate, and be more involved.
@@ -6,22 +7,18 @@ The Hennepin Theatre Trust is an organization seeking to bring positive change t
 <p align="center"> How could creating an app be beneficial for The Hennepin Theatre Trust to connect to their student demographic? 
 
 An app allowing students to connect with not only the theatre community but to other students also showing interest in getting more involved. This type of app can increase student use and involvement by incorporating social media trends making it easy for students ranging in age to connect with each other. 
+  
 
-### **Role**
+  
+| **Role**                    | **Objectives**                        | **Collaborations** |
+| :-------------------------: | :----------------------------------:  | :---------------:  |
+| User experience researcher  | Student perspective                   | Product Designer   |
+|                             | Social Media Feed Integration         | Graphic Designer   |
+|                             | Easily Accessed Community Events      |                    |
+|                             | Simple Yet Engaging                   |                    |
+|                             | Encourging for users to get involved  |                    | 
+  
 
-* User Experience Researcher
-
-### **Objectives**
-
-* Student Perspective
-
-* Social Media feed integration
-
-* Easily accessed community events
-
-* Simple yet engaging
-
-* Encourging for users to get involved
 
 ### **Desired Outcome**
 
@@ -46,8 +43,10 @@ The development of personas were fictional representations of the target communi
 
   
 <p align="center"> Jonah
-  
-  ![JonahPersona](https://user-images.githubusercontent.com/33335020/151637887-010f115b-6c4b-4749-894c-a654df5ae6b3.png)
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151637887-010f115b-6c4b-4749-894c-a654df5ae6b3.png" />
+</p>
 
 The personas for this design project are different, yet the overall goal stays the same. Both personas desire a comprehensive source for involvement and a sense of belonging to a community. Our personas share the same goal but one seeks involvement specifically within theater while the other is more curious about trying new things. This allows two different perspectives allowing a more diverse and comprehensive design. 
 
@@ -55,13 +54,17 @@ The personas for this design project are different, yet the overall goal stays t
   
 Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users.
   
-    <p align="center"> Alex
-![AlexEmpMap](https://user-images.githubusercontent.com/33335020/151638074-f03b4191-a11b-4ff9-821c-86f0110f404b.png)
-
+<p align="center"> Alex
+        <p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151638074-f03b4191-a11b-4ff9-821c-86f0110f404b.png" />
+</p>
+      
 <p align="center"> Jonah
-![JonahEmpMap](https://user-images.githubusercontent.com/33335020/151638105-84b77058-e6a6-4a2c-9402-a5ae4bb73896.png)
+       <p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151638105-84b77058-e6a6-4a2c-9402-a5ae4bb73896.png" />
+</p>
   
-Drawn from the personas, empathy mapping supports the user journey in aiding users by defining key aspects of their behaviors. The user journey becomes more comprehensive and therefore the design of the product connects to each user.
+Drawn from the personas, **empathy mapping** supports the user journey in aiding users by defining key aspects of their behaviors. The user journey becomes more comprehensive and therefore the design of the product connects to each user.
 
 ### Card Sorting
   
