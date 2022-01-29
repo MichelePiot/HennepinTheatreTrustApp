@@ -7,22 +7,44 @@ The Hennepin Theatre Trust is an organization seeking to bring positive change t
 <p align="center"> How could creating an app be beneficial for The Hennepin Theatre Trust to connect to their student demographic? 
 
 An app allowing students to connect with not only the theatre community but to other students also showing interest in getting more involved. This type of app can increase student use and involvement by incorporating social media trends making it easy for students ranging in age to connect with each other. 
-  
 
   
-| **Role**                    | **Objectives**                        | **Collaborations** |
-| :-------------------------: | :----------------------------------:  | :---------------:  |
-| User experience researcher  | Student perspective                   | Product Designer   |
-|                             | Social Media Feed Integration         | Graphic Designer   |
-|                             | Easily Accessed Community Events      |                    |
-|                             | Simple Yet Engaging                   |                    |
-|                             | Encourging for users to get involved  |                    | 
+<div align="center">
   
+ ### **Role**
+  
+  User experience researcher 
+  
+  ---
+  
+ ### **Objectives** 
+    
+  Student perspective 
+  
+  Social Media Feed Integration 
+                             
+  Easily Accessed Community Events
+  
+  Simple Yet Engaging          
+  
+  Encourging for users to get involved 
+  
+  ---
+  
+ ### **Collaborations**
+  
+   Graphic Designer
+  
+   Product Designer
+  
+</div>
 
-
+  
 ### **Desired Outcome**
 
-A dedicated app for students seeking ways to get more involved. Not only providing reliable resources such as community events and information on how to become more involved but students seeking connections or friendships would find a space dedicated to those with similar interests. 
+A dedicated app for students seeking ways to get more involved. 
+
+Not only providing reliable resources such as community events and information on how to become more involved but students seeking connections or friendships would find a space dedicated to those with similar interests. 
 
 ## **Research**
 
@@ -30,7 +52,7 @@ User research was conducted to determine what the most important aspects are and
 
 Because Hennepin Theatre Trust already had a website for their organization, information from there was pulled, gathered, and analyzed to determine what was most suitable and useful for students. This includes anything from information on how to get involved to community meetings and events.
   
-Since the target audience was already decided, it was essential to begin thinking like a current middle/high school student; placing our thoughts and ideas into the perspective of the target audience. Each member drew upon their own experiences and combined them with current trends to begin developing our user journey.
+Since the **target audience** was already decided, it was essential to begin thinking like a current middle/high school student; placing our thoughts and ideas into the perspective of the target audience. Each member drew upon their own experiences and combined them with current trends to begin developing our user journey.
   
 
 ## Persona Development
