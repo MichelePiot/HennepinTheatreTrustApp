@@ -47,9 +47,15 @@ The personas for this design project are different, yet the overall goal stays t
   
 Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users.
 
-**Alex**
+<p align="center"> Alex
 
-**Jonah**
+  ![AlexPersona](https://user-images.githubusercontent.com/33335020/151637786-acdfdb16-cfba-4480-85a5-33238ee2464d.png)
+
+  
+<p align="center"> Jonah
+  
+  ![JonahPersona](https://user-images.githubusercontent.com/33335020/151637887-010f115b-6c4b-4749-894c-a654df5ae6b3.png)
+
   
 Drawn from the personas, empathy mapping supports the user journey in aiding users by defining key aspects of their behaviors. The user journey becomes more comprehensive and therefore the design of the product connects to each user.
 
