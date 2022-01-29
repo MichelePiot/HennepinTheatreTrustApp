@@ -40,14 +40,7 @@ Since the target audience was already decided, it was essential to begin thinkin
   
 The development of personas were fictional representations of the target community who represented the realistic major user group.
 
-
-The personas for this design project are different, yet the overall goal stays the same. Both personas desire a comprehensive source for involvement and a sense of belonging to a community. Our personas share the same goal but one seeks involvement specifically within theater while the other is more curious about trying new things. This allows two different perspectives allowing a more diverse and comprehensive design. 
-
-### Empathy Mapping
-  
-Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users.
-
-<p align="center"> Alex
+  <p align="center"> Alex
 
   ![AlexPersona](https://user-images.githubusercontent.com/33335020/151637786-acdfdb16-cfba-4480-85a5-33238ee2464d.png)
 
@@ -56,6 +49,17 @@ Empathy maps were created for each of the personas to highlight their needs, und
   
   ![JonahPersona](https://user-images.githubusercontent.com/33335020/151637887-010f115b-6c4b-4749-894c-a654df5ae6b3.png)
 
+The personas for this design project are different, yet the overall goal stays the same. Both personas desire a comprehensive source for involvement and a sense of belonging to a community. Our personas share the same goal but one seeks involvement specifically within theater while the other is more curious about trying new things. This allows two different perspectives allowing a more diverse and comprehensive design. 
+
+### Empathy Mapping
+  
+Empathy maps were created for each of the personas to highlight their needs, understand what drives their behaviors, and help guide a product that will benefit the users.
+  
+    <p align="center"> Alex
+![AlexEmpMap](https://user-images.githubusercontent.com/33335020/151638074-f03b4191-a11b-4ff9-821c-86f0110f404b.png)
+
+<p align="center"> Jonah
+![JonahEmpMap](https://user-images.githubusercontent.com/33335020/151638105-84b77058-e6a6-4a2c-9402-a5ae4bb73896.png)
   
 Drawn from the personas, empathy mapping supports the user journey in aiding users by defining key aspects of their behaviors. The user journey becomes more comprehensive and therefore the design of the product connects to each user.
 
