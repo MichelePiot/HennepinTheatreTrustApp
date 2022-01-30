@@ -126,19 +126,88 @@ The qualitative information received gives design thinking some structure in dec
   
 Initial user flow outlining the general path user would take to interact with key aspects of the app.
 
+<p align="center">
+  <img width="571" alt="Screen Shot 2022-01-29 at 9 49 20 PM" src="https://user-images.githubusercontent.com/33335020/151684793-816b54fd-2eaf-4629-86c5-0e33added5ed.png">
+  </p>
+
 ### Sketches
   
 Basic sketches outlining the major aspects desired to be included within the design show potential layouts and allow different design ideas to be considered specifically highlighting the homepage which will incorporate the social media feed.
+
+<p align="center">
+  <img width="611" alt="Screen Shot 2022-01-29 at 9 52 40 PM" src="https://user-images.githubusercontent.com/33335020/151684857-9590aeca-c0e5-4342-8bb5-9df2886d596f.png">
+  </p>
 
 ### Wireframes
   
 After initial sketches of the layout were designed, the wireframing process can begin with an informal outline showing the current layout of the app.
 
+<p align="center">
+  <img width="1585" alt="Screen Shot 2022-01-29 at 9 55 08 PM" src="https://user-images.githubusercontent.com/33335020/151684906-6029cdfc-aef6-449f-9a8b-ddaeee61f6f8.png">
+  </p>
+
 *Wireframe semantic differential test* 
   
-To get feedback from users and insight about their attitudes towards the design, a semantic differential test was implemented on the projected initial page of the app.
-  
-This allows consideration of different layout styles and an insight into the emotional responses of users.
+To get feedback from users and insight about their attitudes towards the design, a **semantic differential** test was implemented on the projected initial page of the app.
   
 To determine which layout was eliciting the desired emotional response, participants viewed two prototypes compared their social media feed layout.
 
+<p aligh="center">
+  <img width="834" alt="Screen Shot 2022-01-29 at 9 57 29 PM" src="https://user-images.githubusercontent.com/33335020/151684959-41377f2b-860e-4ec3-8c6b-244b51820848.png">
+  </p>
+  
+Either positive or negative, a set of adjectives were displayed in which participants had the ability to choose which direction they felt fit each prototype. 
+
+By doing so the design can be reevaluated without re-engineering the core functionality of the app and its design to determine if the chosen adjectives align with the intended emotional response.
+
+<p align="center">
+<img width="639" alt="Screen Shot 2022-01-29 at 9 59 06 PM" src="https://user-images.githubusercontent.com/33335020/151685001-99ef2fb8-3882-427b-a0e5-8f50b77dc78c.png">
+  </p>
+
+*The adjectives were specifically selected as potential descriptors of the user interface and included terms salient to the desired outcome of the design.*
+
+The qualitative results generated from prototype 2 give some insight into how users are feeling when interacting with that design versus prototype 1. Based on the results, it became apparent that **the design layout of prototype 2 more aligned with the design goals of the project.**
+
+----------
+
+## Prototyping
+
+By prototyping these designs we can showcase the overall design concept before highlighting design visuals which helps determine if the design is linking correctly to the overall user flow and allows for redesign and time to gather feedback.
+
+### Low Fidelity Prototype Design
+
+The purpose of creating low-fidelity prototypes is to gain insight from our users. By doing so we can continue the conversation highlighting their needs, goals, and desires.
+
+Below is a snapshot of the low-fidelity prototype created highlighting the initial design layout. This design will be used to enhance our user experience through testing and evaluation.
+
+<p align="center"> 
+       <p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151685124-cf3f3bd0-bb78-4f30-b494-805b9bc3a8db.png" />
+</p>
+
+*Here, the visual design becomes less important while the layout and user flow take center stage.*
+
+
+## Prototype Testing
+
+### Click-Through Prototypes
+
+To determine if the initial design is highlighting the desired areas of importance, click-through prototypes were created to depict the elements of transition and assist in bringing the desired user flow to life.
+
+<p align="center">
+  <img width="553" alt="Screen Shot 2022-01-29 at 10 10 34 PM" src="https://user-images.githubusercontent.com/33335020/151685211-c744e23a-eac3-42bb-8d92-2c25b64f004a.png">
+  </p>
+
+Early visualizations of how users transition throughout the design can highlight **areas of inconsistency** or confusion and confirm users are able to reach their desired destination and goals when interacting with the product.
+
+### Click-Through Testing
+
+It is essential for users to be able to navigate through the low fidelity prototype before proceeding with the design.
+
+As we can see all of the tested participants were able to successfully navigate from the main feed to the messages page.
+
+An easy task yet essential because if users are not able to understand where to go in the beginning stages of development, they will struggle to complete their goals during the final iteration.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151685264-5fa93494-f6b0-49a8-9fcc-6b1b6a19d09b.png">
+  </p>
