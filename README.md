@@ -55,7 +55,7 @@ Because Hennepin Theatre Trust already had a website for their organization, inf
 Since the **target audience** was already decided, it was essential to begin thinking like a current middle/high school student; placing our thoughts and ideas into the perspective of the target audience. Each member drew upon their own experiences and combined them with current trends to begin developing our user journey.
   
 
-## Persona Development
+### Persona Development
   
 The development of personas were fictional representations of the target community who represented the realistic major user group.
 
@@ -188,7 +188,7 @@ Below is a snapshot of the low-fidelity prototype created highlighting the initi
 *Here, the visual design becomes less important while the layout and user flow take center stage.*
 
 
-## Prototype Testing
+## Prototype Evaluation
 
 ### Click-Through Prototypes
 
