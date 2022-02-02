@@ -188,9 +188,9 @@ Below is a snapshot of the low-fidelity prototype created highlighting the initi
 *Here, the visual design becomes less important while the layout and user flow take center stage.*
 
 
-## Prototype Evaluation
+### Prototype Evaluation
 
-### Click-Through Prototypes
+#### Click-Through Prototypes
 
 To determine if the initial design is highlighting the desired areas of importance, click-through prototypes were created to depict the elements of transition and assist in bringing the desired user flow to life.
 
@@ -200,7 +200,7 @@ To determine if the initial design is highlighting the desired areas of importan
 
 Early visualizations of how users transition throughout the design can highlight **areas of inconsistency** or confusion and confirm users are able to reach their desired destination and goals when interacting with the product.
 
-### Click-Through Testing
+#### Click-Through Testing
 
 It is essential for users to be able to navigate through the low fidelity prototype before proceeding with the design.
 
@@ -211,3 +211,21 @@ An easy task yet essential because if users are not able to understand where to 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33335020/151685264-5fa93494-f6b0-49a8-9fcc-6b1b6a19d09b.png">
   </p>
+
+## Implementation
+
+#### Startup Screen
+
+The startup screen for the Hennepin Theatre Trust app was something that desired to be simplistic yet allowed for users to be able to identify what the app consisted of.  
+
+![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5d6a49b8-9367-41f5-88ea-81fb8cae1da9.gif?ClientID=vimeo-core-prod&Date=1643836876&Signature=5673195a0daea99e1101614f5bf0d1ae07570caa)
+  
+ **HomePage** 
+
+The current iteration of the app allows for a collaborative homepage showcasing pictures posted by peers within the theater community. This ties into the current social media trend and allows for greater connections and sharing between those involved in the theater community. 
+
+![Screen Shot 2022-02-02 at 3 54 10 PM](https://user-images.githubusercontent.com/33335020/152235755-def533a2-80cb-4cdb-a555-bc42c34c3e42.png)
+
+
+
+
