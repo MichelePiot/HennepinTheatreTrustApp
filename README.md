@@ -220,12 +220,29 @@ The startup screen for the Hennepin Theatre Trust app was something that desired
 
 ![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5d6a49b8-9367-41f5-88ea-81fb8cae1da9.gif?ClientID=vimeo-core-prod&Date=1643836876&Signature=5673195a0daea99e1101614f5bf0d1ae07570caa)
   
- **HomePage** 
+ #### HomePage 
 
 The current iteration of the app allows for a collaborative homepage showcasing pictures posted by peers within the theater community. This ties into the current social media trend and allows for greater connections and sharing between those involved in the theater community. 
 
-![Screen Shot 2022-02-02 at 3 54 10 PM](https://user-images.githubusercontent.com/33335020/152235755-def533a2-80cb-4cdb-a555-bc42c34c3e42.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152388714-3624c4cc-88df-414a-99d3-a62106cd5ce7.png">
+  </p>
+ 
+Interactively, the social media feed can expand a post easily to view more details. 
+ 
+![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/6ac777b5-d48b-4bb5-a783-9dc5b05a9152.gif?ClientID=vimeo-core-prod&Date=1643908354&Signature=b4ad5948f728c51b833e0222f8535bad9f508d18)
 
+#### Secondary Pages
 
+Along with our homepage, secondary pages were created highlighting major points of interest. 
+
+Showcasing below, there are the pages *Messages,* *Community,* *Review,* *Calendar,* *Showcase.*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/152394343-04035e63-86b8-408a-9e41-78ab16a0108b.png">
+ </p>
+            
+            
+            
 
 
